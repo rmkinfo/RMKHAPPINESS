@@ -1,0 +1,1 @@
+This is an analytical and statistical method rather than indices created by random surveys. Here we are calculating average well being of an average citizen in a nation through various parameters and estimates related to social security
